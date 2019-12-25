@@ -1,1 +1,3 @@
-image: jrottenberg/ffmpeg:3.2-alpine
+image:
+  file: .gitpod.Dockerfile
+
